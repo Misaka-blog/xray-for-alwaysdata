@@ -15,10 +15,13 @@
 * 进入其的 SSH，输入以下命令，以下载项目文件
 
 ```shell
-wget -N && chmod +x web.sh
+wget -N https://github.com/Misaka-blog/xray-for-alwaysdata/raw/main/web.sh && chmod +x web.sh
 ```
 
 * 在网站设置中，按照下图设置启动项并设置环境变量
+
+![image](https://user-images.githubusercontent.com/122191366/230263139-b461e5a4-c52a-4afe-b4ce-e36903ed6372.png)
+
 * 项目用到的环境变量
   | 变量名 | 是否必须 | 默认值 | 备注 |
   | ------------ | ------ | ------ | ------ |
